@@ -58,7 +58,9 @@ getBlogContent();
 const loadAdds = () => {
   console.log('add loaded');
 }
-
+const affiliateRedirect = () =>{
+  // resolver bug
+}
 // test commit
 
 //cambio 1
